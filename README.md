@@ -1,22 +1,48 @@
-# 🌟 私について - About me 🌟
+<h1 align="center">🌟 私について - About me 🌟</h1>
+
+###
+
+<h3 align="center">おはこんばんにちは、FLJP(ぶり)です。</h3>
+
+###
+
+<h3 align="center">FModelの日本語版を作ったりいろいろしてます</h3>
+
+###
+
+<h1 align="center">ちゃんと使える言語↓</h1>
+
+###
 
 <div align="center">
-  <h2>おはごんばんにちは、FLJP(ぶり)です。</h2>
-  <p>🎮 <a href="https://www.fortnite.com/?lang=ja">フォートナイト</a>のリーカーやってます。</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
----
+###
 
-<p align="center"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortniteleakjp&layout=compact&show_icons=true&theme=ambient_gradient" />
-  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Fortniteleakjp&theme=ambient_gradient&show_icons=true" />
-</p>
+<h1 align="center">私の使っているSNS</h1>
 
----
+###
 
-### 🚀 何も書けないけど使える言語です(少なすぎワロタ)
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
-</p>
+<div align="center">
+  <a href="https://x.com/LeakPlayer" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fortniteleakjp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fortniteleakjp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
