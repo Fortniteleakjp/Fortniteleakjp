@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">[FModelの日本語版] (https://github.com/Fortniteleakjp/FModel-JP-) を作ったりいろいろしてます</h3>
+<h3 align="center">FModelの日本語版を作ったりいろいろしてます</h3>
 
 ###
 
